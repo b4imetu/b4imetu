@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=b4imetu&show_icons=true&theme=tokyonight&hide_title=false&count_private=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=b4imetu&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,6 +10,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://github.com/wangsrGit119">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangsrGit119&layout=compact" />
+</a>
+<br>
+
+Profile Page by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
 
 <!--
 **b4imetu/b4imetu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

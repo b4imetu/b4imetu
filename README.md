@@ -1,3 +1,6 @@
+(▰˘◡˘▰)
+(ᗒᗨᗕ)/
+ε٩(๑> ₃ <)۶з
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> Hi there 👋 It's b4imetu.
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="160" />
